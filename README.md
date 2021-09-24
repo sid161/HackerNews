@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# HackerNews
+This is a Hacker-news react App to check Tech News with proper search functionality
+
+To run it locally
+
+1 First clone the repo
+
+2 Run npm i
+
+3 Run `npm start'
+
+4 Runs the app in the development mode
+
+Open http://localhost:3000 to view it in the browser.
+
+The page will reload if you make edits. You will also see any lint errors in the console.
+>>>>>>> 210761547bb07d84320cfb94c69c86f418f0976b
