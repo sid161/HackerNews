@@ -85,5 +85,7 @@ To run it locally
 
 Open http://localhost:3000 to view it in the browser.
 
+Deployed on https://focused-goldwasser-69ebe1.netlify.app/
+
 The page will reload if you make edits. You will also see any lint errors in the console.
 >>>>>>> 210761547bb07d84320cfb94c69c86f418f0976b
